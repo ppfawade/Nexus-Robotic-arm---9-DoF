@@ -1,0 +1,5 @@
+{
+  "name": "Nexus-9 Arm Architect",
+  "description": "A comprehensive engineering dashboard for the Nexus-9 Humanoid Single Arm project. Includes PRD, Mechanical Design, Kinematic Simulation, and AI-driven analysis.",
+  "requestFramePermissions": []
+}
